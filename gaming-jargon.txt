@@ -7,4 +7,4 @@ RPG - Role Playing Game
 
 Early access - Access to games on Steam that are being developed with the community's involvement. These are games that evolve as you play them, as you give feedback, and as the developers update and add content.
 
-Greenlit
+Greenlit - Games on Steam which have received a lot of community support. The next step for these games is for the developer to send Valve a build of the game and start working with us. A game might exist in this state for some time while the developer continues working, polishes the game, and/or works on marketing and plans for the launch.
