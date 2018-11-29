@@ -4,6 +4,7 @@ DLC - Downloadable Content
 FPS - First Person Shooter
 MMO - Massively Multiplayer Online
 RPG - Role Playing Game
+FPS - First Person Shooter
 
 Early access - Access to games on Steam that are being developed with the community's involvement. These are games that evolve as you play them, as you give feedback, and as the developers update and add content.
 
