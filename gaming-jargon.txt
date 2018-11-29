@@ -12,3 +12,4 @@ Greenlit - Games on Steam which have received a lot of community support. The ne
 Indie game - An independent video game (commonly referred to as an indie game) is a video game that is often created without the financial support of a publisher, although some games funded by a publisher are still considered "indie". Indie games often focus on innovation and rely on digital distribution.
 edit: with extension on metadata file
 edit;
+patch-x
